@@ -1,5 +1,5 @@
 {
-    "name": "chart.js",
+    "name": "chart.umd.js",
     "homepage": "https://www.chartjs.org",
     "description": "Simple HTML5 charts using the canvas element.",
     "version": "4.5.1",
